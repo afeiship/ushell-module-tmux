@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-tmux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tmux commands.",
   "main": "index.sh",
   "repository": {
@@ -9,9 +9,12 @@
   },
   "keywords": [
     "ushell",
-    "unix",
+    "module",
+    "base",
+    "zsh",
     "shell",
-    "ushell-module-tmux"
+    "tmux",
+    "terminal"
   ],
   "license": "MIT",
   "bugs": {
