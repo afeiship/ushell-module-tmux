@@ -1,0 +1,24 @@
+{
+  "name": "@jswork/ushell-module-tmux",
+  "version": "1.0.0",
+  "description": "Tmux commands.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-tmux.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-tmux"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-tmux/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-tmux",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
