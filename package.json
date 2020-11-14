@@ -1,6 +1,6 @@
 {
   "name": "@jswork/ushell-module-tmux",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tmux commands.",
   "main": "index.sh",
   "repository": {
