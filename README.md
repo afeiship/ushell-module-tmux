@@ -13,6 +13,7 @@ npm i -S @jswork/ushell-module-tmux
 ## resources
 - http://www.ruanyifeng.com/blog/2019/10/tmux.html
 - https://github.com/afeiship/tmux-notes
+- https://superuser.com/questions/209437/how-do-i-scroll-in-tmux
 
 ## license
 Code released under [the MIT license](https://github.com/afeiship/ushell-module-tmux/blob/master/LICENSE.txt).
