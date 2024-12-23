@@ -4,6 +4,7 @@ ROOT_PATH=$(dirname $BASH_SOURCE)
 
 alias t="tmux"
 alias to="tmux attach -t"
+alias too="tmux attach -t 0"
 alias t-open="tmux attach -t"
 
 alias t-ls="tmux ls"
