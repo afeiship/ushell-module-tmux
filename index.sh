@@ -6,6 +6,7 @@ alias t="tmux"
 alias to="tmux attach -t"
 alias too="tmux attach -t 0"
 alias t-open="tmux attach -t"
+alias t-reload="tmux source-file ~/.tmux.conf"
 
 alias t-ls="tmux ls"
 alias t-mv="tmux rename-session -t"
